@@ -215,7 +215,7 @@ The Streamlit dashboard provides:
 ![Trend](images/trend.png)
 
 ## Climate Visualization
-![Visualization](images/visualization.png)
+![Visualization](images/visualisation.png)
 
 ---
 
